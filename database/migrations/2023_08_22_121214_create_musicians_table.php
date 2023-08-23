@@ -26,6 +26,7 @@ return new class extends Migration
             $table->text("descrizione",100);
             $table->string("cachet",100);
             $table->text("esperienza")->nullable();
+            $table->boolean("CIAOO",500);
 
             $table->timestamps();
         });
