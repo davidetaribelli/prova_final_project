@@ -20,6 +20,7 @@
         <img src="https://wips.plug.it/sips/WvOZDYNYXm9G6m6-FY0OyA/dzpybaqldk5xx.cloudfront.net/prod/spree/1649/products/802/product/PISELLO17X6_1.jpg?a=rc&ssl=1 alt="">
         <p class="col-md-8 fs-4">This a preset package with Bootstrap 5 views for laravel projects including laravel breeze/blade. It works from laravel 9.x to the latest release 10.x</p>
         <a href="https://github.com/lambia/LC-20230627-laravel-template" class="btn btn-primary btn-lg" type="button">Documentation</a>
+        <h3> ci metto qualcosa</h3>
     </div>
 </div>
 
