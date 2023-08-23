@@ -13,6 +13,9 @@
         <h1 class="display-5 fw-bold">
             Welcome to Laravel+Bootstrap 5 tripo n a n
         </h1>
+        <h2>
+            questa è un'altra prova 
+        </h2>
 
         <p class="col-md-8 fs-4">This a preset package with Bootstrap 5 views for laravel projects including laravel breeze/blade. It works from laravel 9.x to the latest release 10.x</p>
         <a href="https://github.com/lambia/LC-20230627-laravel-template" class="btn btn-primary btn-lg" type="button">Documentation</a>
