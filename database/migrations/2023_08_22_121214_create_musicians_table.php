@@ -34,6 +34,7 @@ return new class extends Migration
             $table->string("strumenti",100);
             $table->string("generi",100);
             $table->boolean("has_sponsor",100);
+            $table->boolean("CIAOO",500);
 
             $table->timestamps();
         });
